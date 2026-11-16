@@ -1,17 +1,17 @@
 Blood Gear (PC Engine Super CD-ROM2) - English translation v1.0 - SHA-1 checksums
 
 The release download
-98637653c20e7f0b880fac09957da8ac69d33eb6  BloodGear-EN-v1.0.zip
+5a79b642c3cd6278728f731ec98e33f9ffe169e3  BloodGear-EN-v1.0.zip
 
 Files inside the zip
-903273ac50731cf09f65e4a0dfd1ec1b75547b3e  BloodGear-EN-v1.0-Track02.xdelta
-14edc913184c4d282ffc5d213a04eb47f03f0469  BloodGear-EN-v1.0-Track45.xdelta
+9aef3176e3f0256371a2565e76e3975bcc03105d  BloodGear-EN-v1.0-Track02.xdelta
+54e070e4a54f2abcc476865d36f6b426b45ba0c1  BloodGear-EN-v1.0-Track45.xdelta
 5a954240c5f97b7c94602254808defbb73700a5d  Blood Gear EN.cue
 
 Your disc image, Track 02 (the data track), 20,079,024 bytes
 e318aedf1bbee57cf3c756b8347abbd4328664ec  before patching: Blood Gear (Japan)
-e92eea46d8fe60e17937f38759cb5ba625e196a0  after patching with BloodGear-EN-v1.0-Track02.xdelta
+c59f503923fed35835a0b87b75d82ca33c2ccfcf  after patching with BloodGear-EN-v1.0-Track02.xdelta
 
 Your disc image, Track 45 (the second copy of the data), 19,733,280 bytes
 bc5dc13bf0ca8365a447a61572d867cf39ba2dd6  before patching: Blood Gear (Japan)
-8c8306ae2aa610e0d4894b11a4b74cca8eb97be9  after patching with BloodGear-EN-v1.0-Track45.xdelta
+17bd6ab7e604d3fa62484a8bb578a3c894442caf  after patching with BloodGear-EN-v1.0-Track45.xdelta

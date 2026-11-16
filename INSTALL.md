@@ -66,8 +66,8 @@ The patched files have these SHA-1 checksums:
 
 | File | SHA-1 after patching |
 |---|---|
-| Track 02 | `e92eea46d8fe60e17937f38759cb5ba625e196a0` |
-| Track 45 | `8c8306ae2aa610e0d4894b11a4b74cca8eb97be9` |
+| Track 02 | `c59f503923fed35835a0b87b75d82ca33c2ccfcf` |
+| Track 45 | `17bd6ab7e604d3fa62484a8bb578a3c894442caf` |
 
 ## Alternative: keep the Japanese and English discs side by side
 
