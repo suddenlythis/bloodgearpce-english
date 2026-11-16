@@ -79,7 +79,7 @@ for how it plays, and [Wikipedia on Aurail](https://en.wikipedia.org/wiki/Aurail
 
 | | |
 |---|---|
-| ![The prologue: the Empire's Powered Gears](screenshots/02-prologue.png) | ![Aref's portrait card and his lines to Siege](screenshots/03-aref.png) |
+| ![The prologue: the Empire's Powered Gears](screenshots/02-prologue.png) | ![A conversation in the first town](screenshots/03-first-town.png) |
 | ![Close combat in a cave stage](screenshots/04-combat.png) | ![Siege hands over the Arms](screenshots/05-the-arms.png) |
 | ![The recovery operation](screenshots/06-recovery-operation.png) | ![May introduces herself](screenshots/07-may.png) |
 | ![Jumping at a large gun emplacement](screenshots/08-turret.png) | ![The Gear Hunters of Scarlet](screenshots/09-scarlet.png) |
