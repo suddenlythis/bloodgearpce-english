@@ -80,13 +80,13 @@ for how it plays, and [Wikipedia on Aurail](https://en.wikipedia.org/wiki/Aurail
 | | |
 |---|---|
 | ![The prologue: the Empire's Powered Gears](screenshots/02-prologue.png) | ![Aref's portrait card and his lines to Siege](screenshots/03-aref.png) |
-| ![Siege hands over the Arms](screenshots/04-the-arms.png) | ![May introduces herself](screenshots/05-may.png) |
-| ![The Gear Hunters of Scarlet](screenshots/06-scarlet.png) | ![The item list with Use and Drop](screenshots/07-items.png) |
-| ![The Upgrade screen](screenshots/08-upgrade.png) | ![The Emperor and the Knight of the Flash](screenshots/09-knight-of-the-flash.png) |
-| ![The recovery operation](screenshots/10-recovery-operation.png) | ![The command menu in a later area](screenshots/11-late-area.png) |
-| ![Close combat in a cave stage](screenshots/12-combat.png) | ![Jumping at a large gun emplacement](screenshots/13-turret.png) |
-| ![Choosing a weapon from the Equip list](screenshots/14-equip.png) | ![Riding a lift in the cave stage](screenshots/15-cave-lift.png) |
-| ![Firing the sniper rifle in a machine-base stage](screenshots/16-sniper-rifle.png) |  |
+| ![Close combat in a cave stage](screenshots/04-combat.png) | ![Siege hands over the Arms](screenshots/05-the-arms.png) |
+| ![The recovery operation](screenshots/06-recovery-operation.png) | ![May introduces herself](screenshots/07-may.png) |
+| ![Jumping at a large gun emplacement](screenshots/08-turret.png) | ![The Gear Hunters of Scarlet](screenshots/09-scarlet.png) |
+| ![Firing the sniper rifle in a machine-base stage](screenshots/10-sniper-rifle.png) | ![The item list with Use and Drop](screenshots/11-items.png) |
+| ![Choosing a weapon from the Equip list](screenshots/12-equip.png) | ![The Upgrade screen](screenshots/13-upgrade.png) |
+| ![Riding a lift in the cave stage](screenshots/14-cave-lift.png) | ![The Emperor and the Knight of the Flash](screenshots/15-knight-of-the-flash.png) |
+| ![The command menu in a later area](screenshots/16-late-area.png) |  |
 
 ## Installing
 
